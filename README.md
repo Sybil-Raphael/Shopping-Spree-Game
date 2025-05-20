@@ -1,11 +1,11 @@
 # Shopping Spree Game 
 
-**Name**: Sybil Raphael
+**Name**: Sybil Raphael  
 **Due Date**: April 29, 2024
 
 ## Description
 
-This repository contains the C++ source code for a "Shopping Spree" game.  This is a text-based game where a player interacts with a virtual shopping environment. The player can acquire items, which affect their tokens and points. The game includes different types of items, such as normal items, power-ups, and debuffs. The player's health, tokens, and points are tracked during the game.
+This program is for a "Shopping Spree" game.  This is a grid-based game where a player/computer interacts with a shopping environment. The player can acquire items, which affect their score and points. The game includes different types of items, such as normal items, power-ups, and debuffs. The player's items, score, and points are tracked during the game.
 
 ## How to Run
 
